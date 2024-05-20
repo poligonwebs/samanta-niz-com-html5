@@ -661,7 +661,49 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #010483;
+  color: #a07eb1;
+}
+
+
+
+
+
+
+
+.section-titleB {
+  padding-bottom: 40px;
+}
+
+.section-titleB h2 {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0;
+  line-height: 1px;
+  margin: 0 0 5px 0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #aaaaaa;
+  font-family: "Poppins", sans-serif;
+}
+
+.section-titleB h2::after {
+  content: "";
+  width: 120px;
+  height: 1px;
+  display: inline-block;
+  background: #64cba6;
+  margin: 4px 10px;
+}
+
+
+.section-titleB p {
+  margin: 0;
+  margin: 0;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #fff;
 }
 /* -------------------
 Section title faq
@@ -700,7 +742,7 @@ Section title faq
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #010483;
+  color: #a07eb1;
 }
 
 /* -------------------
@@ -740,11 +782,42 @@ Section title faq
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #010483;
+  color: #Fff;
 }
 
+.separadorA{
+  width: 50%;
+  height: auto;
+  padding: 10 0 10 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.separadorB{
+  width: 50%;
+  height: auto;
+  padding: 10 0 10 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.separadorC{
+  width: 50%;
+  height: auto;
+  padding: 10 0 10 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
-
+.separadorD{
+  width: 50%;
+  height: auto;
+  padding: 10 0 10 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 /*--------------------------------------------------------------
 # Breadcrumbs
@@ -818,7 +891,7 @@ Section title faq
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #010483;
+  color: #a07eb1;
   margin-bottom: 15px;
 }
 
@@ -985,7 +1058,7 @@ Section title faq
 }
 
 .features .icon-box h3 a {
-  color: #010483;
+  color: #a07eb1;
   transition: ease-in-out 0.3s;
 }
 
@@ -1035,7 +1108,7 @@ Section title faq
   font-size: 36px;
   display: block;
   font-weight: 600;
-  color: #010483;
+  color: #a07eb1;
 }
 
 .counts .count-box p {
@@ -1060,7 +1133,7 @@ Section title faq
 .details .content h3 {
   font-weight: 600;
   font-size: 26px;
-  color: #010483;
+  color: #a07eb1;
 }
 
 .details .content ul {
@@ -1532,7 +1605,7 @@ Section title faq
   font-size: 22px;
   font-weight: 600;
   margin-bottom: 5px;
-  color: #010483;
+  color: #a07eb1;
 }
 
 .contact .info p {
