@@ -376,7 +376,7 @@
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  background: url("../img/hero-bg.jpg");
+  background: url("../img/hero-bg.webp");
   position: relative;
   padding: 120px 0 0 0;
 }
@@ -1060,7 +1060,7 @@ Section title faq
 }
 
 .about .video-box {
-  background: url("../img/about.png") center center no-repeat;
+  background: url("../img/about.webp") center center no-repeat;
   background-size: contain;
   min-height: 300px;
 }
@@ -2010,11 +2010,11 @@ Section title faq
 }
 
 .triangle-no-animate {
-  background: url(../img/arrow.png) repeat-x;
+  background: url(../img/arrow.webp) repeat-x;
 }
 
 .triangle-top-no-animate {
-  background: url(../img/arrow-top.png) repeat-x;
+  background: url(../img/arrow-top.webp) repeat-x;
   height: 15px;
 }
 
@@ -2153,7 +2153,7 @@ Section title faq
 }
 
 .card-1 .bg-image {
-  background-image: url('../img/details-2.png'); 
+  background-image: url('../img/details-2.webp'); 
   background-size: cover;
   background-position: center;
   height: 100%;
@@ -2161,7 +2161,7 @@ Section title faq
 }
 
 .card-2 .bg-image {
-  background-image: url('../img/details-1.png'); 
+  background-image: url('../img/details-1.webp'); 
   background-size: cover;
   background-position: center;
   height: 100%;
@@ -2182,7 +2182,7 @@ Section title faq
 
 @media (max-width: 767px) {
   .card-1 .bg-image {
-    background-image: url('../img/details-2-mobile.png'); 
+    background-image: url('../img/details-2-mobile.webp'); 
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -2190,7 +2190,7 @@ Section title faq
   }
   
   .card-2 .bg-image {
-    background-image: url('../img/details-1-mobile.png'); 
+    background-image: url('../img/details-1-mobile.webp'); 
     background-size: cover;
     background-position: center;
     height: 100%;
@@ -2211,7 +2211,7 @@ Section title faq
 .card-custom:hover{
 
 
-  background-image: url('../img/fondolinkcursos.jpg');
+  background-image: url('../img/fondolinkcursos.webp');
   background-repeat: repeat;
   background-position: center;
   z-index: 0;
