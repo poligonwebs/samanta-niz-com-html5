@@ -159,7 +159,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color:  var(--color3);
+  color:  var(--color3) !important;
   text-align: center;
 }
 
