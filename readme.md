@@ -28,16 +28,15 @@ La web app de Samanta Niz es una plataforma para la promoción y registro de cur
 ## Cómo Usar
 
 1. **Clonar el repositorio:**
-   ```bash
+```bash
    git clone https://github.com/tu-usuario/samanta-niz-cursos.git
-  ```
+```
 
 2. **Navegar al directorio del proyecto:**
 
-  ```
+```bash
   cd samanta-niz-cursos
-
-    ```
+```
     
 
 3. **Abrir index.html en tu navegador:**

@@ -888,6 +888,16 @@ Section title faq
   margin-right: auto;
 }
 
+.separadorE{
+  width: 40%;
+  height: auto;
+  padding: 20px 0px 0px 0px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 
 
 @media (max-width: 992px) {
@@ -1295,7 +1305,7 @@ Section title faq
 }
 
 .card-2 {
-  background-color: var(--color6);
+  background-color: var(--color2);
 }
 
 
@@ -2139,7 +2149,7 @@ Section title faq
 .bg-image {
   background-size: cover;
   background-position: left;
-  height: 110%; /* Ensure it covers the full height of the card */
+
 }
 
 .card-1 .bg-image {
@@ -2266,4 +2276,86 @@ Section title faq
   
   color: #fff;
   font-weight: 600;
+}
+
+/* Responsive adjustments */
+@media (max-width: 767px) {
+.cursos-desktop{
+display: none;
+}
+.details p {
+  text-align: center !important;  
+}
+
+.details li {
+  text-align: center !important;  
+}
+}
+
+@media (min-width: 767px) {
+  .cursos-mobile{
+  display: none;
+  }
+
+
+  }
+
+
+.caja-cursos-image-mobile{
+  width: 102%;
+}
+
+.caja-cursosA{
+  padding-top: 10px;
+  margin: 20px 0 30px 0;
+  border-radius: 20px;  
+}
+
+.caja-cursosA .card-title{
+  font-weight: 800;
+  }
+  
+
+.cursos-mobile .caja-cursosA{
+  background-color: var(--color3) !important;
+}
+
+.caja-cursos_texto_mobileA{
+  background-color: var(--color3) !important;
+  border-radius: 0px 0px 20px 20px;  
+  padding-bottom: 20px;
+}
+
+
+.cursos-mobile .btn-custom{
+width: 100%;
+font-size: 32px;
+font-weight: 600;
+}
+
+
+
+.caja-cursosB{
+  padding-top: 10px;
+  margin: 20px 0 30px 0;
+  border-radius: 20px;  
+}
+
+.cursos-mobile .caja-cursosB{
+  background-color: var(--color2) !important;
+}
+
+.caja-cursos_texto_mobileB{
+  background-color: var(--color2) !important;
+  border-radius: 0px 0px 20px 20px;  
+  padding-bottom: 20px;
+}
+
+.caja-cursosB .card-title{
+font-weight: 800;
+}
+
+.cursos-mobile .p{
+
+text-align: center !important;  
 }
