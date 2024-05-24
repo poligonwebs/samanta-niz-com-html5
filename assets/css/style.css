@@ -2,7 +2,40 @@
 
 
 @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
-@import url('_variables.css');
+
+
+
+:root {
+  --color1: #ecbde7; /* falta */
+  --color2: #a07eb1;
+  --color3: #e992bf;
+  --color4: #fecad7; /* falta */
+  --color5: #ffdfd6; /* falta */
+  --color6: #85d9db;
+  --color7: #9cf7ce; /* falta */
+  
+  --color8: #444444; /* Color faltante */
+  --color9: #64cba6; /* Color faltante */
+  --color10: #34e5a6; /* Color faltante */
+  --color11: #fff; /* Color faltante */
+  --color12: #d2f9eb; /* Color faltante */
+  --color13: #01036f; /* Color faltante */
+  --color14: #aaaaaa; /* Color faltante */
+  --color15: #6c757d; /* Color faltante */
+  --color16: #f5f5ff; /* Color faltante */
+  --color17: #f4f3ef; /* Color faltante */
+  --color18: #0205a1; /* Color faltante */
+  --color19: #010246; /* Color faltante */
+  --color20: #777777; /* Color faltante */
+  --color21: #bababa; /* Color faltante */
+  --color22: #f8f8f8; /* Color faltante */
+  --color23: #ed3c0d; /* Color faltante */
+  --color24: #18d26e; /* Color faltante */
+  --color25: #0d12fc; /* Color faltante */
+  --color26: #149f6e; /* Color faltante */
+  --color27: #4e2e1a; /* Nuevo color de texto */
+}
+
 
 
 /*--------------------------------------------------------------
